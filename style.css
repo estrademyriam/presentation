@@ -1,0 +1,46 @@
+body {
+    background-color : #9BC8C8; 
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    }
+
+img.image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 20%;
+    } 
+
+.txt{
+    font-family: 'Roboto', sans-serif;
+    margin-left:100px;
+    margin-right:100px;
+    text-align:justify;
+    padding:10px;
+    }
+
+.paragraphe{
+    font-family: 'Roboto', sans-serif;
+    text-align:justify;
+    padding:10px;
+    margin-left:100px;
+    margin-right:100px;
+    }
+
+h1 {
+    background-color:black;
+    text-align:center;
+    text-transform: uppercase;
+    }
+
+footer{
+    text-align:center;
+    background-color:black;
+}
+
+.instagram-media{
+    
+}
+
+
+
