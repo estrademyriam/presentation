@@ -1,5 +1,5 @@
 body {
-    background-color : #9BC8C8; 
+    background-color : #9BC8C8;
     font-family: 'Roboto', sans-serif;
     color: white;
     }
@@ -22,9 +22,8 @@ img.image {
 .paragraphe{
     font-family: 'Roboto', sans-serif;
     text-align:justify;
-    padding:10px;
-    margin-left:100px;
-    margin-right:100px;
+    margin-left:50px;
+    margin-right:50px;
     }
 
 h1 {
@@ -36,10 +35,16 @@ h1 {
 footer{
     text-align:center;
     background-color:black;
+    width:100%;
 }
 
 .instagram-media{
-    
+   width:50px;
+   width:50px;
+}
+
+.link{
+    color:white;
 }
 
 
