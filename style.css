@@ -47,7 +47,43 @@ footer{
     color:white;
 }
 
+.link:hover{
+    color:#9BC8C8;
+}
 
+button {
+    margin-left: 40%;
+    color: white;
+    padding: 5px; 
+    border-radius: 4px;
+    background-color: black;
+}
 
-#d1{background-color: #EECC4499;}
-#d2{background-color: #44EEAA99;}
+button:hover {
+    background-color: white;
+    color:black;
+}
+
+@media all and (max-width:1199px){
+    .paragraphe {
+        font-size: 30px ;
+    }
+    button {
+        font-size:30px;
+        margin-left:20%;
+    }
+        
+        
+    }
+
+.marque{
+    color:white;
+}
+
+.marque:hover{
+    color:black;
+}
+
+a[href^="https"]::before {
+    content: "🔗 ";
+  }
